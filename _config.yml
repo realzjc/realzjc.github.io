@@ -21,10 +21,14 @@ author: Jiacheng Zhao
 
 navbar-links:
   About Me: "aboutme"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
+  Posts: "posts"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - ChatGPT: "https://chat.openai.com/"
+    - Claude: "https://claude.ai/"
+  # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
