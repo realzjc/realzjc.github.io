@@ -1,0 +1,12 @@
+<svg width="900" height="675" viewBox="0 0 900 675" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Project placeholder</title>
+  <desc id="desc">A simple abstract project preview placeholder.</desc>
+  <rect width="900" height="675" fill="#EEF3EF"/>
+  <rect x="72" y="72" width="756" height="531" rx="18" fill="#FFFFFF" stroke="#D8DFDC" stroke-width="3"/>
+  <rect x="126" y="135" width="648" height="68" rx="12" fill="#D7ECE7"/>
+  <rect x="126" y="246" width="288" height="244" rx="14" fill="#0F766E"/>
+  <rect x="456" y="246" width="318" height="44" rx="10" fill="#B7791F"/>
+  <rect x="456" y="322" width="250" height="28" rx="8" fill="#D8DFDC"/>
+  <rect x="456" y="376" width="290" height="28" rx="8" fill="#D8DFDC"/>
+  <rect x="456" y="430" width="210" height="28" rx="8" fill="#D8DFDC"/>
+</svg>
